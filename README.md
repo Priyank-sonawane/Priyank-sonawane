@@ -29,6 +29,9 @@ TECHNOLOGIES |TOOLS
 
   
 - 💞️ I’m looking to collaborate on automating the manual process of taking backups of the bulk databases which will contribute in disaster management and outages of cloud platform services. 
+- Also working on Tokenising the cyrpto coins. 
+- Working on Cyrpto Mining and learning blockchain technology.
+- 
 - 📫 You can reach out to me at :  
 -    Email : sonawanepriyank@gmail.com 
 -    LinkedIn : https://www.linkedin.com/in/priyank-sonawane-b47672229
