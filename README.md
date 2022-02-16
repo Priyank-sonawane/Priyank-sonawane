@@ -25,8 +25,12 @@ TECHNOLOGIES |TOOLS
   *Ticketing Tool - JIRA| Confluence
   *DockerHub | GCR | ECR | Jfrog
   
+  NOTE : I have added some useful automated scripts in the private repositories for the infrastructural stack using AWS services deployments, please connect to know more about it. If anyone needs it, will be happy to share the codebase. 
+
+  
 - 💞️ I’m looking to collaborate on automating the manual process of taking backups of the buld databases which will contribute in disaster management and outages of cloud platform services. 
 - 📫 You can reach out to me at :  sonawanepriyank@gmail.com 
+
 
 <!---
 Priyank-sonawane/Priyank-sonawane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
