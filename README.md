@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Priyank-sonawane
-- 👀 I’m interested in Automating the inventions in the world of technology.
-- 🌱 I’m currently working as a DevOps Lead with total experience of 8+ years in IT.
+ Hi, I’m Priyank-sonawane
+ I’m interested in Automating the inventions in the world of technology.
+ I’m currently working as a DevOps Lead with total experience of 8+ years in IT.
 My Skills set : 
   *AWS | GCP Cloud practitioner 
   *Solution Architect/Designing 
@@ -28,11 +28,11 @@ TECHNOLOGIES |TOOLS
   NOTE : I have added some useful automated scripts in the private repositories for the infrastructural stack using AWS services deployments, please connect to know more about it. If anyone needs it, will be happy to share the codebase. 
 
   
-- 💞️ I’m looking to collaborate on automating the manual process of taking backups of the bulk databases which will contribute in disaster management and outages of cloud platform services. 
+💞️ I’m looking to collaborate on automating the manual process of taking backups of the bulk databases which will contribute in disaster management and outages of cloud platform services. 
 - Also working on Tokenising the cyrpto coins. 
 - Working on Cyrpto Mining and learning blockchain technology.
-- 
-- 📫 You can reach out to me at :  
+ 
+You can reach out to me at :  
 -    Email : sonawanepriyank@gmail.com 
 -    LinkedIn : https://www.linkedin.com/in/priyank-sonawane-b47672229
 -    webiste : www.priyank-sonawane.in
