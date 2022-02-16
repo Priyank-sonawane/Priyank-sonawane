@@ -32,7 +32,7 @@ TECHNOLOGIES |TOOLS
 - Learning &  implenting DevSecOps practices to allign the security posture of an application with the standardised solutions. 
 - Implemented a cadence of ETL process using the "Amanzon Managed Workflow with the Apcahe Airflow" MWAA framework. 
 - Have assisted the organisations in completing the internal and external audits to meet the certified standards of a software application.
-- Have deployed various CIS hardeded images of the virtual machines/servers and managed them in lower and higher environments. 
+- Have deployed various (CIS Benchmarks) CIS hardeded images of the virtual machines/servers and managed them in lower and higher environments. 
 - Learning blockchain mining technology.
   
 💞️ I’m looking to collaborate on automating the manual process of taking backups of the bulk databases which will contribute in disaster management and outages of cloud platform services. 
