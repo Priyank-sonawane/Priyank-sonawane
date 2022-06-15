@@ -1,6 +1,6 @@
 - Hi, I’m Priyank-sonawane
 - I’m interested in Automating the inventions in the world of technology.
-- I’m currently working as a DevOps Lead with total experience of 8+ years in IT.
+- I’m currently working as a Associate DevOps Manager with total experience of 8+ years in IT.
 
 
 My Skills set : 
