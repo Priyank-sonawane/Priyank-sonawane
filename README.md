@@ -1,6 +1,6 @@
 - Hi, I’m Priyank-sonawane
 - I’m interested in Automating the inventions in the world of technology.
-- I’m currently working as a Associate DevOps Manager with total experience of 8+ years in IT.
+- I’m currently working as a Devops Project Lead with total experience of 10 years in IT.
 
 
 My Skills set : 
@@ -13,6 +13,11 @@ My Skills set :
   *Infrastructure Management
   *Software Configuration Management
   *Budgeting and Cost Analysis
+Domains I've worked on:
+  * ITSM-SSD
+  * Banking & Insurance
+  * OTT MEdia platform
+  * Healthcare Medical
 TECHNOLOGIES |TOOLS
   *Jenkins | Maven | ELK
   *Bitbucket | Git | Confluence
@@ -29,7 +34,8 @@ TECHNOLOGIES |TOOLS
   
   NOTE : I have added some useful automated scripts in the private repositories for the infrastructural stack using AWS services deployments, please connect to know more about it. If anyone needs it, will be happy to share the codebase. 
 
-- Learning &  implenting DevSecOps practices to allign the security posture of an application with the standardised solutions. 
+- Learning & implenting DevSecOps practices to allign the security posture of an application with the standardised solutions.
+- Leveraging the cutting edge tool with AI and ML ops.
 - Implemented a cadence of ETL process using the "Amanzon Managed Workflow with the Apcahe Airflow" MWAA framework. 
 - Have assisted the organisations in completing the internal and external audits to meet the certified standards of a software application.
 - Have deployed various (CIS Benchmarks) CIS hardeded images of the virtual machines/servers and managed them in lower and higher environments. 
@@ -39,7 +45,7 @@ TECHNOLOGIES |TOOLS
  
 You can reach out to me at :  
 -    Email : sonawanepriyank@gmail.com 
--    LinkedIn : https://www.linkedin.com/in/priyank-sonawane-b47672229
+-    LinkedIn : https://www.linkedin.com/in/priyank-sonawane
 -    webiste : www.priyank-sonawane.in
 
 <!---
